@@ -1,0 +1,10 @@
+﻿  stuff.cpp
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(189): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(196): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(221): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(241): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(285): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(307): warning C4018: '>': signed/unsigned mismatch
+c:\users\charlie tong\desktop\charlie's college stuff\p5\p5\stuff.cpp(325): warning C4018: '>': signed/unsigned mismatch
+  P5.vcxproj -> C:\Users\Charlie Tong\Desktop\Charlie's College Stuff\P5\Debug\P5.exe
+  P5.vcxproj -> C:\Users\Charlie Tong\Desktop\Charlie's College Stuff\P5\Debug\P5.pdb (Partial PDB)
